@@ -1,0 +1,10 @@
+# Large generated artifacts (re-create by running the notebook)
+trained_models.joblib
+models.csv
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
+.env
